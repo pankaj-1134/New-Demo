@@ -1,4 +1,5 @@
 # New-Demo
 This Is My First Repository
 <br>
-Author :- Pankaj Jethwa
+Author :- Pankaj (pank)
+
